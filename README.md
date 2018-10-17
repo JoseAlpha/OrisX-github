@@ -1,0 +1,2 @@
+# OrisX-github
+Algoritmo Base
